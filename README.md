@@ -1,5 +1,8 @@
 # ShapeDedector
 recognises a given shape
+
+
+
 import cv2 as cv
 
 strShape = input("Enter a shape : ")
